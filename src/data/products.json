@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1001",
+    "name": "면혼방 반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 35000,
+    "imgURL": "@/assets/img/item/item-1.jpg",
+    "liked": false
+  },
+  {
+    "id": "1002",
+    "name": "면혼방 반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 35000,
+    "imgURL": "@/assets/img/item/item-2.jpg",
+    "liked": false
+  },
+  {
+    "id": "1003",
+    "name": "면혼방 반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 35000,
+    "imgURL": "@/assets/img/item/item-3.jpg",
+    "liked": false
+  },
+  {
+    "id": "1004",
+    "name": "수피마 사이드배색반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 2000,
+    "imgURL": "@/assets/img/item/item-4.jpg",
+    "liked": false
+  },
+  {
+    "id": "1005",
+    "name": "반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 3000,
+    "imgURL": "@/assets/img/item/item-5.jpg",
+    "liked": false
+  },
+  {
+    "id": "1006",
+    "name": "반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 4000,
+    "imgURL": "@/assets/img/item/item-6.jpg",
+    "liked": false
+  },
+  {
+    "id": "1007",
+    "name": "반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 55000,
+    "imgURL": "@/assets/img/item/item-7.jpg",
+    "liked": false
+  },
+  {
+    "id": "1008",
+    "name": "반팔티",
+    "category1": "여성",
+    "category2": "레귤러핏",
+    "category3": "라이프스타일",
+    "price": 66000,
+    "imgURL": "@/assets/img/item/item-8.jpg",
+    "liked": false
+  }
+]

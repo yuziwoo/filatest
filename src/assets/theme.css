@@ -5,6 +5,8 @@
 
   --color-black: #000000;
   --color-white: #ffffff;
+
+  --z-index--header: 100;
 }
 
 /* 기기 기본 설정에 따른 다크모드 설정을 원하는 경우 */
